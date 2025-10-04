@@ -10,10 +10,11 @@ make sure you downloaded the already compiled programs zip in the releases page 
    ```bat
    cd C:\Windows\System32
    ```
-2. take ownership and permissions of utilman.exe
+2. take ownership and permissions of utilman.exe, and rename it to utilman.exe.old
    ```bat
    takeown utilman.exe /f
    icacls utilman.exe /grant everyone:F
+   ren utilman.exe utilman.exe.old
    ```
 3. extract the winlogon-jailbreak zip file to C:\Windows\System32
 4. you're now ready to run the program, js go to the login screen and click on the accessibility/ease of access button.
