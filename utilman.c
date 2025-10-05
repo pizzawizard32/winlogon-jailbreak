@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main() {
-	system("start wljailbreakpassword6769420133721-1234.vbs");
+	system("start C:\Windows\System32\wljailbreakpassword.vbs");
 	return 0;
 }
