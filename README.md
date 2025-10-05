@@ -19,6 +19,7 @@ make sure you downloaded the C++ script and you've got GCC on your PC, and then 
 3. put the file jailbreak.cc in C:\Windows\System32
 4. change the password in the file jailbreak.cc
 5. compile the file jailbreak.cc (C++) with the GCC compiler
-6. you're now ready to run the program, js go to the login screen and click on the "accessibility"/"ease of access" button.
+6. rename the compiled file to utilman.exe
+7. you're now ready to run the program, js go to the login screen and click on the "accessibility"/"ease of access" button.
 
 **NOTE:** Jailbreaking Winlogon can also give access to do unauthorized things (such as deleting all your system files), so you might be able to brick your Windows installation, but I'm not responsible for anything you do on your computer.
