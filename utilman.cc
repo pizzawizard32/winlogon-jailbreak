@@ -6,10 +6,13 @@ int main() {
 	std::string password = "mypassword"; // replace mypassword to your password
 	std::string passinput;
 
+	getline(std::cin, passinput);
+
 	if (passinput == password)
 		system("logonjailbreak");
 	else
 		std::cout << "incorrect password";
 
 	return 0;
+
 }
