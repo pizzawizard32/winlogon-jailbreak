@@ -4,6 +4,19 @@
 
 int main() {
 	system("title Winlogon Jailbreak");
+
+	std::cout << "welcome :)\npassword: ";
+	std::string password = "mypassword"; // replace mypassword to your password
+	std::string passinput;
+	getline(std::cin, passinput);
+	
+	if (passinput == password) {
+		std::cout << "correct!\n";
+		system("cls");
+	} else {
+		return 1;
+	}
+
 	std::cout << "Hello! Please select one of these options:\n\n[1] snipping tool\n[2] command prompt\n[3] control panel\n[4] on-screen keyboard\n[5] notepad\n[6] calculator\n[7] magnifier\n[8] narrator\n[9] paint\n[10] taskmgr\n\nEnter your choice: ";
 	int option;
 	std::cin >> option;
@@ -31,7 +44,7 @@ int main() {
 	}
 
 	system("cls");
-	system("logonjailbreak");
+	system("utilman");
 
 	return 0;
 }
