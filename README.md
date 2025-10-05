@@ -17,4 +17,5 @@ make sure you downloaded the already compiled programs zip in the releases page 
    ren utilman.exe utilman.exe.old
    ```
 3. extract the winlogon-jailbreak zip file to C:\Windows\System32
-4. you're now ready to run the program, js go to the login screen and click on the accessibility/ease of access button.
+4. change the password in the file wljailbreakpassword.vbs
+5. you're now ready to run the program, js go to the login screen and click on the "accessibility"/"ease of access" button.
