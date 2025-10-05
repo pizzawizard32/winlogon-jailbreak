@@ -17,7 +17,8 @@ make sure you downloaded the already compiled programs zip in the releases page 
    ren utilman.exe utilman.exe.old
    ```
 3. extract the winlogon-jailbreak zip file to C:\Windows\System32
-4. change the password in the file wljailbreakpassword.vbs
-5. you're now ready to run the program, js go to the login screen and click on the "accessibility"/"ease of access" button.
+4. change the password in the file utilman.cc
+5. compile the file utilman.cc (C++) with the GCC compiler
+6. you're now ready to run the program, js go to the login screen and click on the "accessibility"/"ease of access" button.
 
 **NOTE:** Jailbreaking Winlogon can also give access to do unauthorized things (such as deleting all your system files), so you might be able to brick your Windows installation, but I'm not responsible for anything you do on your computer.
