@@ -20,4 +20,4 @@ make sure you downloaded the already compiled programs zip in the releases page 
 4. change the password in the file wljailbreakpassword.vbs
 5. you're now ready to run the program, js go to the login screen and click on the "accessibility"/"ease of access" button.
 
-**NOTE:** Jailbreaking Winlogon can also give access to do unauthorized things (such as deleting all your system files), so you might be able to brick your PC, but I'm not responsible for anything you do on your computer.
+**NOTE:** Jailbreaking Winlogon can also give access to do unauthorized things (such as deleting all your system files), so you might be able to brick your Windows installation, but I'm not responsible for anything you do on your computer.
